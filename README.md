@@ -1,6 +1,6 @@
 # Wine Quality Data Set Analysis
 
-**Introduction**
+## Introduction
 
 In this project, I will be analyzing the Wine Quality dataset from UC Irvine Machine Learning Repository.
 
